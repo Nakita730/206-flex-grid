@@ -108,6 +108,31 @@ body {
   height: 100%;
 }
 
+.header{
+  background-color:#89A894;
+   color: #fff;
+  display: flex;
+  width: 90%;
+  border-style: solid;
+  border-color: black;
+  margin:2em;
+}
+
+.main-parag{
+  background-color:#B7999c;
+  color: #fff;
+  display: flex;
+  width: 90%;
+  justify-content: center;
+  align-items: center;
+  border-style: solid;
+  border-color: black;
+  margin:1em;
+  }
+
+
+
+
 .wrapper {
   /*add display:flex and set justify-content to space-between*/
   font-weight: 700;
@@ -127,6 +152,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: .75em;
+
 }
 
 
